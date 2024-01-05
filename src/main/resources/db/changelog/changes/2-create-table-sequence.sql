@@ -1,0 +1,1 @@
+CREATE SEQUENCE participant_seq INCREMENT 50;

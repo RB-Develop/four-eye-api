@@ -1,0 +1,1 @@
+CREATE SEQUENCE changes_seq INCREMENT 50;
